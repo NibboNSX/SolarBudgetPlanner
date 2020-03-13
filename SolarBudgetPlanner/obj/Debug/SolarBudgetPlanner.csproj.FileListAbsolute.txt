@@ -1,0 +1,10 @@
+C:\Users\danie\source\repos\SolarBudgetPlanner\SolarBudgetPlanner\bin\Debug\SolarBudgetPlanner.exe.config
+C:\Users\danie\source\repos\SolarBudgetPlanner\SolarBudgetPlanner\bin\Debug\SolarBudgetPlanner.exe
+C:\Users\danie\source\repos\SolarBudgetPlanner\SolarBudgetPlanner\bin\Debug\SolarBudgetPlanner.pdb
+C:\Users\danie\source\repos\SolarBudgetPlanner\SolarBudgetPlanner\obj\Debug\SolarBudgetPlanner.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\SolarBudgetPlanner\SolarBudgetPlanner\obj\Debug\SolarBudgetPlanner.Properties.Resources.resources
+C:\Users\danie\source\repos\SolarBudgetPlanner\SolarBudgetPlanner\obj\Debug\SolarBudgetPlanner.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\SolarBudgetPlanner\SolarBudgetPlanner\obj\Debug\SolarBudgetPlanner.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\SolarBudgetPlanner\SolarBudgetPlanner\obj\Debug\SolarBudgetPlanner.exe
+C:\Users\danie\source\repos\SolarBudgetPlanner\SolarBudgetPlanner\obj\Debug\SolarBudgetPlanner.pdb
+C:\Users\danie\source\repos\SolarBudgetPlanner\SolarBudgetPlanner\obj\Debug\SolarBudgetPlanner.mainForm.resources
